@@ -9,9 +9,7 @@ MyReadme
     <a href="linkedin-url">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </ a >
-  < a  href = " twitter-url " >
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </ a >
+  
   < a  href = " telegram-url " >
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </ a >
@@ -20,8 +18,8 @@ MyReadme
 ### Про мене
 - 🌱 Зараз я вивчаю ** Full-Stack**
 - 📄 Дізнайтеся про мій досвід [ CV ] ( [https://drive.google.com/file/d/1bDqipQJ1B_72EBqTKP7cLhLgLn6tG_vg/view?usp=sharing ]())
-- 📫 Зв’яжіться зі мною через [ LinkedIn ] ( [linkedin-link](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%BD%D0%B0-%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D1%8E%D0%BA-b6281b288/) ) , [ email ] ( mailto: anna.romaniuk.220@gmail.com)
-- 🌍 Я розмовляю англійською
+- 📫 Зв’яжіться зі мною через [ LinkedIn ] ( [linkedin-link](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%BD%D0%B0-%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D1%8E%D0%BA-b6281b288/) ) , [ email ] ( mailto: anna.romaniuk.220v@gmail.com)
+- 🌍 Я розмовляю українською та англійською мовами.
 
 ---
 
@@ -47,4 +45,19 @@ MyReadme
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=github_dark" alt=""/>
 </ div >
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
 ---
+Карточка профиля: 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+
+Статистика языков в коммитах:
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+
+Статистика языков в репозиториях:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+
+Статистика профиля:
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+
+Данные по коммитам за сутки:
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
